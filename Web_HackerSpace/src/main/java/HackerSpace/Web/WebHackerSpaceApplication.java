@@ -8,6 +8,7 @@ public class WebHackerSpaceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WebHackerSpaceApplication.class, args);
+		System.out.println("web");
 	}
 
 }
