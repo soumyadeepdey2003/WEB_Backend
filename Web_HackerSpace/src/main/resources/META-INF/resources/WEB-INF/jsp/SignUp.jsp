@@ -1,3 +1,4 @@
+
 <html>
     <head>
         <title>
@@ -6,13 +7,17 @@
     </head>
     
     <body>
-         welcome to Signup Page 
+         <h1><b><center> welcome to Signup Page</center></b> </h1><br>
          
          <form action="post">
-              <div> Name:<input type="text" name="name"></div>
-              <div>Email:<input type="text" name="email"></div>
-              <div>phoneNo:<input type="text" name="number"></div>
-              <div>Password:<input type="password" name="password"></div>
+         <center>
+              <div > Name:<input type="text" name="name"></div><br>
+              <div>Email:<input type="text" name="email"></div><br>
+              <div>phoneNo:<input type="text" name="number"></div><br>
+              <div>Password:<input type="password" name="password"></div><br>
+              <br>
+              <button><h2><b>SUBMIT</b></h2></button>
+         </center>
          </form>
     </body>
 </html>
