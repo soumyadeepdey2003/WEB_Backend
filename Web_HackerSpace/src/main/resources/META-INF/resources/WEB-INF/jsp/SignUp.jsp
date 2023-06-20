@@ -9,7 +9,7 @@
     <body>
          <h1><b><center> welcome to Signup Page</center></b> </h1><br>
          
-         <form action="post">
+         <form method="post">
          <center>
               <div > Name:<input type="text" name="name"></div><br>
               <div>Email:<input type="text" name="email"></div><br>
